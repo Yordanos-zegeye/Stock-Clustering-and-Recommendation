@@ -6,13 +6,20 @@
 - `src/`: Python scripts for preprocessing, clustering, and analysis.
 - `notebooks/`: Jupyter notebook for exploratory analysis.
 - `results/`: Stores clustering results and plots.
-- `requirements.txt`: Required Python libraries.
 - `main.py`: Orchestrates the entire clustering pipeline.
+
+## Libraries Used
+
+- Pandas
+- scikit-learn
+- matplotlib
+- numpy
+- seaborn
 
 ## Setup Instructions
 
 1. Clone the repository and navigate to the project directory.
-2. Install dependencies: `pip install -r requirements.txt`.
+2. Install dependencies
 3. Place your dataset in the `data/` folder as `stock_data.csv`.
 4. Run the project by executing `python main.py`.
 
