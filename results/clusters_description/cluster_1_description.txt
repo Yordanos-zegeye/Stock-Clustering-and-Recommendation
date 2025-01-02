@@ -1,0 +1,12 @@
+Cluster 1 Summary:
+- Average Stock Price: 232.78
+- Average Price Change: 12.78
+- Average Volatility: 1.63
+- Average ROE: 19.40
+- Average Cash Ratio: 276.20
+- Other Indicators:
+  - Net Cash Flow: 2068889560.00
+  - EPS: 6.06
+  - P/E Ratio: 74.10
+
+This cluster represents high-volatility, potentially high-growth companies suitable for risk-tolerant investors.

@@ -1,0 +1,12 @@
+Cluster 3 Summary:
+- Average Stock Price: 71.60
+- Average Price Change: 5.08
+- Average Volatility: 1.37
+- Average ROE: 25.33
+- Average Cash Ratio: 54.18
+- Other Indicators:
+  - Net Cash Flow: -93120802.87
+  - EPS: 3.71
+  - P/E Ratio: 23.18
+
+This cluster represents high-volatility, potentially high-growth companies suitable for risk-tolerant investors.

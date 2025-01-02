@@ -1,0 +1,12 @@
+Cluster 2 Summary:
+- Average Stock Price: 84.36
+- Average Price Change: 3.85
+- Average Volatility: 1.83
+- Average ROE: 633.57
+- Average Cash Ratio: 33.57
+- Other Indicators:
+  - Net Cash Flow: -568400000.00
+  - EPS: -10.84
+  - P/E Ratio: 42.28
+
+This cluster represents high-volatility, potentially high-growth companies suitable for risk-tolerant investors.

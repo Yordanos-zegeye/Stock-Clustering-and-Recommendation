@@ -1,0 +1,6 @@
+Ticker Symbol,Security,GICS Sector,GICS Sub Industry,Current Price,Price Change,Volatility,ROE,Cash Ratio,Net Cash Flow,Net Income,Earnings Per Share,Estimated Shares Outstanding,P/E Ratio,P/B Ratio,Cluster
+MCD,McDonald's Corp.,Consumer Discretionary,Restaurants,118.139999,19.93908528,0.733163184,64,260,5607600000,4529300000,4.82,939688796.7,24.51037324,7.122145144,1
+VRTX,Vertex Pharmaceuticals Inc,Health Care,Biotechnology,125.830002,21.92830006,2.456534928,59,221,89509000,-556334000,-2.31,240837229.4,39.60292786,2.559670701,1
+BIIB,BIOGEN IDEC Inc.,Health Care,Biotechnology,306.350006,4.917982291,1.825993718,38,133,148900000,3547000000,15.38,230624187.3,19.91872601,0.162602199,1
+ADS,Alliance Data Systems,Information Technology,Data Processing & Outsourced Services,276.570007,6.189285566,1.116976328,30,25,90885000,596541000,8.91,66951851.85,31.04040483,129.0645854,1
+PCLN,Priceline.com Inc,Consumer Discretionary,Internet & Direct Marketing Retail,1274.949951,3.190527229,1.268340336,29,184,-1671386000,2551360000,50.09,50935516.07,25.45318329,-1.05242872,1

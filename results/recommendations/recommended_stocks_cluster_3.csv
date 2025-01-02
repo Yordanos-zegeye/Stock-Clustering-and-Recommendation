@@ -1,0 +1,6 @@
+Ticker Symbol,Security,GICS Sector,GICS Sub Industry,Current Price,Price Change,Volatility,ROE,Cash Ratio,Net Cash Flow,Net Income,Earnings Per Share,Estimated Shares Outstanding,P/E Ratio,P/B Ratio,Cluster
+MAS,Masco Corp.,Industrials,Building Products,28.299999,11.63707692,1.428359195,263,61,85000000,355000000,1.03,344660194.2,27.47572718,2.219577465,3
+PBI,Pitney-Bowes,Industrials,"Technology, Hardware, Software and Supplies",20.65,3.821020805,1.259610749,228,34,-403561000,407943000,2.04,199972058.8,10.12254902,-0.733207433,3
+IDXX,IDEXX Laboratories,Health Care,Health Care Equipment,72.919998,-1.565880087,1.469585708,228,40,-193542000,192078000,2.07,92791304.35,35.22705217,-0.98108331,3
+UPS,United Parcel Service,Industrials,Air Freight & Logistics,96.230003,-2.797976768,0.826408115,196,44,439000000,4844000000,5.38,900371747.2,17.88661766,1.069558216,3
+MO,Altria Group Inc,Consumer Staples,Tobacco,58.209999,6.885787861,0.959007981,182,33,-952000000,5241000000,2.67,1962921348.0,21.80149775,-6.632970807,3

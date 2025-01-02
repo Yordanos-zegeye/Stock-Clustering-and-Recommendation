@@ -1,0 +1,6 @@
+Ticker Symbol,Security,GICS Sector,GICS Sub Industry,Current Price,Price Change,Volatility,ROE,Cash Ratio,Net Cash Flow,Net Income,Earnings Per Share,Estimated Shares Outstanding,P/E Ratio,P/B Ratio,Cluster
+APA,Apache Corporation,Energy,Oil & Gas Exploration & Production,44.470001,11.39780368,2.40540795,917,80,698000000,-23528000000,-61.2,384444444.4,93.0892875,4.970809249,2
+CHK,Chesapeake Energy,Energy,Integrated Oil & Gas,4.5,-38.10178817,4.559814532,687,22,-3283000000,-14685000000,-22.43,654703522.1,28.40792888,-1.840527749,2
+ALLE,Allegion,Industrials,Building Products,65.919998,13.75323013,1.283794784,601,45,-90800000,153900000,1.6,96187500.0,41.19999875,-0.877452891,2
+SPGI,"S&P Global, Inc.",Financials,Diversified Financial Services,98.580002,14.04442355,1.080857679,596,51,-1016000000,1156000000,4.26,271361502.3,23.14084554,-4.178927336,2
+CHTR,Charter Communications,Consumer Discretionary,Cable & Satellite,183.100006,3.598506744,1.697941997,589,0,2000000,-271000000,-2.43,111522633.7,20.81987609,-76.11907749,2
