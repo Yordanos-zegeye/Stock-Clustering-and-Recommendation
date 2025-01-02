@@ -24,12 +24,13 @@ if __name__ == "__main__":
     cluster_summary = analyze_clusters(stock_data, numerical_features)
     print("Clustering and analysis pipeline complete!")
     cluster_description = save_cluster_descriptions(stock_data , numerical_features)
+    
     # Load clusterd data to a new file
     cluster_column = 'Cluster' 
     if cluster_column in stock_data.columns:
         save_clustered_data(stock_data)
 
-    # Recommend stocks from Cluster 1 (e.g., high ROE and EPS)
+    # Recommend stocks from Cluster 1
     output_folder = './results/recommendations/'
     os.makedirs(output_folder, exist_ok=True)
 

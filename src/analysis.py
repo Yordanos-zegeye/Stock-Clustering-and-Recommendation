@@ -3,7 +3,6 @@ import os
 
 def save_cluster_descriptions(stock_data, numerical_features, output_folder='./results/clusters/'):
     """Generate and save descriptions for each cluster."""
-    # Ensure the output folder exists
     os.makedirs(output_folder, exist_ok=True)
     
     # Group data by cluster
@@ -33,7 +32,6 @@ def save_cluster_descriptions(stock_data, numerical_features, output_folder='./r
         else:
             cluster_description += "This cluster includes mixed companies with diverse financial profiles.\n"
 
-        # Save to a file
         file_path = os.path.join(output_folder, f'cluster_{cluster_id}_description.txt')
         with open(file_path, 'w') as file:
             file.write(cluster_description)
